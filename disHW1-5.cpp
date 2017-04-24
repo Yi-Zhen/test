@@ -17,7 +17,7 @@ int main()
 	for(int i=0; i<6; i++)
 	  cin >> a[i];
 	  
-	bool flag=false;
+	
 	int b[28]={0};
 	
 	
